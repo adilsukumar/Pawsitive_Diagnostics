@@ -1,0 +1,16 @@
+project_id = "vlayjhtajhdnlzmszyrq"
+
+[functions.analyze-pet-health]
+verify_jwt = false
+
+[functions.fusion-analysis]
+verify_jwt = false
+
+[functions.breed-info]
+verify_jwt = false
+
+[functions.daily-insight]
+verify_jwt = false
+
+[functions.sensor-data]
+verify_jwt = false

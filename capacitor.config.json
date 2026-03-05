@@ -1,0 +1,9 @@
+{
+  "appId": "com.pawsitivediagnosis.app",
+  "appName": "Pawsitive Diagnosis",
+  "webDir": "dist",
+  "server": {
+    "url": "http://localhost:8080",
+    "cleartext": true
+  }
+}
