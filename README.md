@@ -11,6 +11,14 @@ An ultra-affordable (under ₹1000) AI-powered smart reflective collar system fo
 
 ---
 
+## 🌐 Live Demo
+
+**🚀 [Launch Web App](https://pawsitive-diagnostics.vercel.app/)** - Full-featured Progressive Web App
+
+**🌍 [Visit Website](https://pawsitive-diagnostics-website.vercel.app/)** - Project landing page with features overview
+
+---
+
 ## 📑 Table of Contents
 
 - [The Problem](#-the-problem-the-diagnostic-gap)
@@ -634,8 +642,8 @@ We are continuously innovating to enhance the collar's capabilities. Here's our 
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/pawsitive-diagnostics.git
-cd pawsitive-diagnostics
+git clone https://github.com/adilsukumar/Pawsitive_Diagnostics.git
+cd Pawsitive_Diagnostics
 
 # Install dependencies
 npm install
@@ -882,10 +890,10 @@ We welcome contributions! Areas of interest:
 - **Anakha Shaji** - UI/UX & Research
 
 ### Links
-- GitHub: [Repository URL]
-- Documentation: [Docs URL]
-- Website: [Website URL]
-- Email: [Contact Email]
+- **Live App**: https://pawsitive-diagnostics.vercel.app/
+- **Website**: https://pawsitive-diagnostics-website.vercel.app/
+- **GitHub (App)**: https://github.com/adilsukumar/Pawsitive_Diagnostics
+- **GitHub (Website)**: https://github.com/adilsukumar/Pawsitive_Diagnostics_Website
 
 ---
 
