@@ -830,7 +830,7 @@ Detailed setup instructions in [Supabase Setup](#supabase-setup) section.
 - **Dimensions**: 40mm x 30mm x 15mm (electronics module)
 - **Weight**: 50g (with battery)
 - **Water Resistance**: IP65 (splash-proof)
-- **Operating Temperature**: -10°C to 50°C
+- **Operating Temperature**: -10°C to 40°C
 - **Battery Life**: 24-48 hours (continuous monitoring)
 - **Charging Time**: 2-3 hours (USB-C)
 - **Wireless Range**: 10m (Bluetooth), Unlimited (WiFi)
@@ -894,6 +894,7 @@ We welcome contributions! Areas of interest:
 - **Website**: https://pawsitive-diagnostics-website.vercel.app/
 - **GitHub (App)**: https://github.com/adilsukumar/Pawsitive_Diagnostics
 - **GitHub (Website)**: https://github.com/adilsukumar/Pawsitive_Diagnostics_Website
+- **Email**: adilsukumar24@gmail.com
 
 ---
 
@@ -927,30 +928,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🎯 Roadmap
 
-### Q1 2024
+### Phase 1
 - ✅ Launch v1.0
 - ✅ 1000 audio dataset
 - ✅ 350+ breed database
 
-### Q2 2024
+### Phase 2
 - 🔄 GPS integration
 - 🔄 BME688 sensor upgrade
 - 🔄 LED indicator system
 - 🔄 Expand to 5000 audio samples
 
-### Q3 2024
+### Phase 3
 - 📅 Heart rate monitoring
 - 📅 Multi-wavelength UV
 - 📅 Government pilot program
 - 📅 Patent approval
 
-### Q4 2024
+### Phase 4
 - 📅 Cat support
 - 📅 Livestock monitoring
 - 📅 National deployment
 - 📅 Open-source release
 
-### 2025 and Beyond
+### Phase 5 and Beyond
 - 📅 Global expansion
 - 📅 Multi-species support
 - 📅 Advanced AI models
@@ -996,37 +997,12 @@ Help us make pet healthcare accessible to everyone. Whether you're a pet owner, 
 
 ---
 
-## 📖 Continue Reading
-
-This README is split into multiple parts for better readability:
-
-👉 **[Continue to Part 2: Complete Feature Documentation →](README_PART2.md)**
-
-Part 2 includes:
-- Detailed feature documentation (all 20+ features)
-- Installation guide
-- Supabase setup instructions
-- Hardware assembly guide
-- Usage tutorials
-- API documentation
-- Troubleshooting
-- FAQ
-
----
-
 **Made by Pawsitive Innovators:**
 - Adil Sukumar
 - Snehal Dixit
 - Anakha Shaji
 
 **Emergency Contact:** National Vet Care India: **1962**
-
----
-
-**Version**: 1.0.0  
-**Status**: Production Ready ✅  
-**Patent**: Pending 📋  
-**License**: Educational & Research Use
 
 ---
 
