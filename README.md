@@ -822,7 +822,7 @@ Detailed setup instructions in [Supabase Setup](#supabase-setup) section.
 - **Dimensions**: 40mm x 30mm x 15mm (electronics module)
 - **Weight**: 50g (with battery)
 - **Water Resistance**: IP65 (splash-proof)
-- **Operating Temperature**: -10°C to 50°C
+- **Operating Temperature**: -10°C to 40°C
 - **Battery Life**: 24-48 hours (continuous monitoring)
 - **Charging Time**: 2-3 hours (USB-C)
 - **Wireless Range**: 10m (Bluetooth), Unlimited (WiFi)
@@ -985,24 +985,6 @@ Help us make pet healthcare accessible to everyone. Whether you're a pet owner, 
 **Patent**: Pending 📝  
 **SDG Aligned**: 3 & 9 🎯
 
-
----
-
-## 📖 Continue Reading
-
-This README is split into multiple parts for better readability:
-
-👉 **[Continue to Part 2: Complete Feature Documentation →](README_PART2.md)**
-
-Part 2 includes:
-- Detailed feature documentation (all 20+ features)
-- Installation guide
-- Supabase setup instructions
-- Hardware assembly guide
-- Usage tutorials
-- API documentation
-- Troubleshooting
-- FAQ
 
 ---
 
