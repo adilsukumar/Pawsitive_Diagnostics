@@ -884,11 +884,6 @@ We welcome contributions! Areas of interest:
 ### Emergency
 - **National Vet Care India**: 1962
 
-### Development Team
-- **Adil Sukumar** - Hardware & AI
-- **Snehal Dixit** - Software & Backend
-- **Anakha Shaji** - UI/UX & Research
-
 ### Links
 - **Live App**: https://pawsitive-diagnostics.vercel.app/
 - **Website**: https://pawsitive-diagnostics-website.vercel.app/
