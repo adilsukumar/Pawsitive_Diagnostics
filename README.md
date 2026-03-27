@@ -15,7 +15,7 @@ An ultra-affordable (under ₹1000) AI-powered smart reflective collar system fo
 
 **🚀 [Launch Web App](https://pawsitive-diagnostics.vercel.app/)** - Full-featured Progressive Web App
 
-**🌍 [Visit Website](https://pawsitive-diagnostics-website.vercel.app/)** - Project landing page with features overview
+**🌍 [Visit Website](https://pawsitive-diagnostics-website.vercel.app/)** - Project landing page with entire features overview
 
 ---
 
